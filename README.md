@@ -1,16 +1,11 @@
-# streamfusion_video_call
+# Stream Fusion - Flutter Video Call Application
 
-A new Flutter project.
+Stream Fusion is a Flutter application that enables users to engage in real-time video calls using the Agora services. It simplifies the process of connecting with others through a seamless and user-friendly interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **User Name:** Give your username.
+- **Channel Selection:** Specify a channel name to join and connect with other user.
+- **Real-time Video Call:** Experience smooth and high-quality video calls with other user on the same channel.
+- **Dual View:** View both your video feed and the other participant's feed simultaneously.
+- **Interactive Controls:** Use intuitive buttons to mute/unmute, end the call, swap camera, and toggle the camera.
